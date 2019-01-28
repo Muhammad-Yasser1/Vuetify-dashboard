@@ -1,5 +1,7 @@
 # Vuetify-dashboard 
 
+Demo: https://teamtasks.netlify.com/
+
 ## Project setup
 ```
 yarn install
